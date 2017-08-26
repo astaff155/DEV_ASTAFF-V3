@@ -1569,7 +1569,3 @@ local changeUsername = function(username)
 end
 M.changeUsername = changeUsername
 return M
-
-
---@mafia_cli
---https://github.com/mafia-007
