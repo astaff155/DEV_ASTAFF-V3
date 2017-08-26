@@ -6,8 +6,11 @@
 - cd $HOME
 - git clone https://github.com/astaff155/DEV_ASTAFF-V3
 - cd DEV_ASTAFF-V3
-- chmod +x DEV_ASTAFF-V3.sh
-- DEV_ASTAFF-V3.sh install
+- chmod +x install
+- ./install
+- cd tg
+- mv telegram-cli-1222 tg
+- chmod +x tg
 - ./launch.sh
 - number
 - code
