@@ -11,7 +11,9 @@
 - cd tg
 - mv telegram-cli-1222 tg
 - chmod +x tg
-- ./launch.sh
+- cd ..
+- sudo apt-get install nano
+- ./run
 - number
 - code
 - ctrl + c
