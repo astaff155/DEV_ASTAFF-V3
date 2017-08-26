@@ -1,8 +1,8 @@
 --------------------------------------
-## mafia_bot
+## DEV_ASTAFF-V3
 
-- git clone https://github.com/mafia-007/mafia_cli
-- cd mafia_cli
+- git clone https://github.com/astaff155/DEV_ASTAFF-V3
+- cd DEV_ASTAFF-V3
 - sh install
 - #edit config.lua, line [28 , 33]
 - ./launch.sh
@@ -13,7 +13,7 @@
 ---------------------------------------
 ---------------------------------------
 ## Error run bot
-- cd mafia_cli
+- cd DEV_ASTAFF-V3
 - killall -9 bash
 - screen ./launch.sh
 ---------------------------------------
@@ -44,4 +44,4 @@
 
 --------------------------------------
 
-## [@mafia_cli](https://telegram.me/mafia_cli)
+## [@ASTAFF](https://t.me/DEV_ASTAFF)
