@@ -1,15 +1,19 @@
 --------------------------------------
 ## DEV_ASTAFF-V3
 
+- Install
+
+- cd $HOME
 - git clone https://github.com/astaff155/DEV_ASTAFF-V3
 - cd DEV_ASTAFF-V3
-- sh install
-- #edit config.lua, line [28 , 33]
+- chmod +x DEV_ASTAFF-V3.sh
+- DEV_ASTAFF-V3.sh install
 - ./launch.sh
 - number
 - code
 - ctrl + c
 - screen ./launch.sh
+- #edit config.lua, line [28 , 33]
 ---------------------------------------
 ---------------------------------------
 ## Error run bot
